@@ -54,5 +54,5 @@ prompt engineering is the process of writting instructions to get the best resul
 its important for helping the AI models understand and respond better to queries.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effect
-importance of eating.
-describe the importance of healthy eating in human beings giving examples of healthy meals and how to take them
+1. importance of eating.
+2. describe the importance of healthy eating in human beings giving examples of healthy meals and how to take them
